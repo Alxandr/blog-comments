@@ -8,6 +8,6 @@ edition = "2021"
 [dependencies]
 lambda_runtime = "0.4.1"
 log = "0.4.14"
-serde = "1.0.130"
+serde = "1.0.131"
 simple_logger = "1.13.0"
 tokio = "1.14.0"
