@@ -6,7 +6,7 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-lambda_http = "0.4.1"
+lambda_http = "0.5.0"
 log = "0.4.14"
 serde = "1.0.133"
 simple_logger = "2.1.0"
