@@ -7,7 +7,7 @@ edition = "2021"
 
 [dependencies]
 lambda_runtime = "0.5.1"
-log = "0.4.14"
+log = "0.4.17"
 serde = "1.0.133"
 simple_logger = "2.1.0"
 tokio = "1.17.0"
